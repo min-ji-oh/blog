@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DPDPlp3K.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modern/destructure.md","filePath":"modern/destructure.md"}'),a={name:"modern/destructure.md"};function o(s,c,n,d,m,u){return r(),t("div")}const i=e(a,[["render",o]]);export{_ as __pageData,i as default};
