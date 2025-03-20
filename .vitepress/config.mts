@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Project",
+  title: "OMG World",
   base: '/',
   description: "study",
   themeConfig: {

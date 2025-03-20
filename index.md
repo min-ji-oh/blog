@@ -6,7 +6,7 @@ hero:
   text: "개발 지식 아카이브"
   tagline: 클린 코드와 모던 웹 개발에 관한 모든 것
   image:
-    src: /assets/omg.gif
+    src: /.vitepress/public/omg.gif
     alt: 로고 이미지
   actions:
     - theme: brand
