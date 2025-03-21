@@ -14,7 +14,7 @@
 **업무 기간:** (2024.01 ~ 현재)
 
 **사용 기술:** Next.js, TypeScript, Tailwind CSS, React, React Query, Zustand, 모노레포, SEO, 웹 성능 최적화, 적응형 UI, 웹 접근성
-
+**협업 툴:** Figma
 - 기존 **Legacy 소스에서 Next.js 기반으로 페이지 전환** 작업 수행
 - CSR과 SSR을 상황에 맞게 적용하여 사용자 경험 개선
 - **적응형 UI**를 고려하여 다양한 디바이스에서 최적의 화면 제공
