@@ -5,13 +5,13 @@ hero:
   name: "Min-Ji Oh"
   text: "개발 지식 아카이브"
   tagline: 클린 코드와 모던 웹 개발에 관한 모든 것
-  image:
-    src: /.vitepress/public/omg.gif
-    alt: 로고 이미지
+  # image:
+  #   src: /omg.gif
+  #   alt: 로고 이미지
   actions:
     - theme: brand
       text: 경력이력
-      link: https://github.com/min-ji-oh
+      link: /career
     - theme: alt
       text: 학습 페이지
       link: /clean-code
