@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "OMG World",
+  title: "OMG WORLD",
   base: '/',
   description: "study",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'AboutMe', link: '/career' }
+    nav: [   
+      { text: 'ABOUT✨ME', link: '/career' }
     ],
 
     sidebar:[
