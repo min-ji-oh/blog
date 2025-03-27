@@ -26,6 +26,7 @@ export default defineConfig({
           { text: 'Reflow와 Repaint', link: '/modern/reflow' },
           { text: '구조 분해 할당', link: '/modern/destructure' },
           { text: '서버사이드', link: '/modern/serverside' },
+          { text: '웹성능지표', link: '/modern/web-vitals' },
         ]
       },
 
