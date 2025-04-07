@@ -34,6 +34,7 @@ export default defineConfig({
         text: 'FE 적응기',
         items: [
           { text: 'next/image가 문제였다고요?', link: '/fe-experience/img' },
+          { text: 'layout 영향 없이 페이지 만들기', link: '/fe-experience/layout' },
         ]
       },
 
