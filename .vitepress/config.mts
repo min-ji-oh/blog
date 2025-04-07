@@ -36,6 +36,7 @@ export default defineConfig({
           { text: 'next/image가 문제였다고요?', link: '/fe-experience/img' },
           { text: 'layout 영향 없이 페이지 만들기', link: '/fe-experience/layout' },
           { text: 'React Query 로딩 처리', link: '/fe-experience/loading' },
+          { text: '웹접근성', link: '/fe-experience/accessibility' },
         ]
       },
 
