@@ -31,11 +31,11 @@
 - **모노레포(Monorepo) 환경을 적용하여 코드 관리 및 개발 생산성 향상**
 - **팀원들과 클린 코드를 지향하며 코드 리뷰를 진행하여 코드 품질 유지 및 개선**
 - 담당 페이지:
-    - **분철서비스 (4월초 오픈)**
-    - **Welcome Main 페이지 (4월초 오픈)**
-    - **수준별 원서 읽기 페이지 [(링크)](https://store.kyobobook.co.kr/read-index)**
-    - **선물하기 서비스 (4월초 오픈)**
-    - **Picks 서비스 (4월초 오픈)**
+    - **분철서비스 (4월초 오픈) 기여도: 100% [(링크)](https://www.kyobobook.co.kr/spring)**
+    - **Welcome Main 페이지 기여도: 20% [(링크)](https://kyobobook.co.kr/)**
+    - **수준별 원서 읽기 페이지 기여도: 100% [(링크)](https://store.kyobobook.co.kr/read-index)**
+    - **선물하기 서비스 (4월초 오픈) 기여도: 100% [(링크)](https://www.kyobobook.co.kr/gift)**
+    - **Picks 서비스 (4월초 오픈) 기여도: 100% [(링크)](https://www.kyobobook.co.kr/picks)**
     - 베스트셀러 서비스 [(링크)](https://store.kyobobook.co.kr/bestseller/online/daily)
 
 ### **교보 디자인 시스템 담당 ( KDS )**
