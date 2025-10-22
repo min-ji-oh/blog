@@ -31,12 +31,21 @@
 - **모노레포(Monorepo) 환경을 적용하여 코드 관리 및 개발 생산성 향상**
 - **팀원들과 클린 코드를 지향하며 코드 리뷰를 진행하여 코드 품질 유지 및 개선**
 - 담당 페이지:
-    - **분철서비스 (4월초 오픈) 기여도: 100% [(링크)](https://www.kyobobook.co.kr/spring)**
+    교보문고
+    - **분철서비스 기여도: 100% [(링크)](https://www.kyobobook.co.kr/spring)**
     - **Welcome Main 페이지 기여도: 20% [(링크)](https://kyobobook.co.kr/)**
     - **수준별 원서 읽기 페이지 기여도: 100% [(링크)](https://store.kyobobook.co.kr/read-index)**
-    - **선물하기 서비스 (4월초 오픈) 기여도: 100% [(링크)](https://www.kyobobook.co.kr/gift)**
-    - **Picks 서비스 (4월초 오픈) 기여도: 100% [(링크)](https://www.kyobobook.co.kr/picks)**
+    - **선물하기 서비스 기여도: 100% [(링크)](https://www.kyobobook.co.kr/gift)**
+    - **Picks 서비스 기여도: 100% [(링크)](https://www.kyobobook.co.kr/picks)**
     - 베스트셀러 서비스 [(링크)](https://store.kyobobook.co.kr/bestseller/online/daily)
+
+    핫트랙스
+    - **베스트셀러 기여도: 100% [(링크)](https://hottracks.kyobobook.co.kr/bestseller)**
+    - **이벤트 기여도: 100% [(링크)](https://hottracks.kyobobook.co.kr/event/promotion)**
+
+    공통
+    - 버거메뉴 전체 개편 : submodule 내 패키지로 관리하여 전체 서비스 배포
+    - Footer 전체 개편 : 별도 ui-package로 관리하여 푸터 전체 서비스 통일을 위한 데이터 통합(json), UI 공통화 및 전체 서비스 배포
 
 ### **교보 디자인 시스템 담당 ( KDS )**
 
