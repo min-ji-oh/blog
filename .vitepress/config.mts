@@ -37,6 +37,7 @@ export default defineConfig({
           { text: 'layout 영향 없이 페이지 만들기', link: '/fe-experience/layout' },
           { text: 'React Query 로딩 처리', link: '/fe-experience/loading' },
           { text: '웹접근성', link: '/fe-experience/accessibility' },
+          { text: 'screen reader', link: '/fe-experience/screen' },
         ]
       },
 
